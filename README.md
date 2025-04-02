@@ -17,6 +17,6 @@ function caculator(nums){
 ```
 
 [Texto del enlace](https://www.google.es)
-[ir a google]  
+[Ir a Google](https://www.google.com "Mensajito"){:target="_blank"}
 
   
